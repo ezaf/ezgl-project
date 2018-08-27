@@ -1,0 +1,9 @@
+[submodule "sub/ezmake"]
+	path = sub/ezmake
+	url = https://github.com/ezaf/ezmake.git
+[submodule "sub/json"]
+	path = sub/json
+	url = https://github.com/nlohmann/json.git
+[submodule "sub/ezgl"]
+	path = sub/ezgl
+	url = https://github.com/ezaf/ezgl.git
